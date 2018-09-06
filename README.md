@@ -1,2 +1,2 @@
 # hortio-web-dashboard
-Web dashboard server written in python with Flask
+Moved to https://github.com/hortio/hortio-resin/tree/vdnh
